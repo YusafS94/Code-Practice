@@ -1,0 +1,1 @@
+This is the "front end" client side part of the "NODE_BACKEND_API_BASIC" file. Button has been set up to create a fetch request to the port on the server in that code and return the name of the user 1.
